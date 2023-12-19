@@ -1,5 +1,5 @@
 # PM2-installation-on-ubuntu-22.04
-If you have confused with installation of PM2 on your ubuntu 22.04 you need to go through following commands:
+If you are experiencing confusion with the installation of PM2 on your Ubuntu 22.04, follow these commands:
 
 1. sudo apt install npm
 2. sudo apt install build-essential
